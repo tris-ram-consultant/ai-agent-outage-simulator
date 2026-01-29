@@ -1,3 +1,4 @@
+console.log("APP JSX LOADED");
 const { useEffect, useState } = React;
 
 /* =============================
